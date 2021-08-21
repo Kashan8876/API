@@ -11,3 +11,5 @@ sqlalchemy==1.4.21
 requests==2.26.0
 jsonschema==3.2.0
 DateTime ==4.3
+flask_sqlalchemy==2.5.0
+flask_Migrate==3.1.0
