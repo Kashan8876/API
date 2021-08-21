@@ -277,7 +277,7 @@ class ADT_Model(db.Model):
 @app.route('/')
 def hello_world():
     return 'API'
-@app.route('/api', methods=['POST'])
+@app.route('/api', methods=['POST','GET'])
 
 def validateJson():
     data= request.get_json()
