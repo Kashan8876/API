@@ -8,3 +8,4 @@ MarkupSafe==1.1.1
 Werkzeug==0.15.6  
 opencv-contrib-python-headless
 sqlalchemy==1.4.21
+requests==2.26.0
